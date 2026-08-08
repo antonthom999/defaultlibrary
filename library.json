@@ -1,19 +1,5 @@
 [
-  {
-    "url": "https://64.media.tumblr.com/93b1d02b7b6e0015357a623f81ad639a/5e6777c6d5e715fd-33/s2048x3072/a512fe763711820ac620dc2e9eebb253cd8fab98.png",
-    "scale": { "cols": 14, "rows": 6 },
-    "location": { "x": 0, "y": 0 }
-  },
-  {
-    "url": "https://64.media.tumblr.com/1f6334dba5fe02345e056cecbc5c1171/6a351946a978b2d7-35/s2048x3072/3e12b256498d34df8dc9b1ba7ab86ba1ba7c0e4e.png",
-    "scale": { "cols": 16, "rows": 7 },
-    "location": { "x": 15, "y": 0 }
-  },
-  {
-    "url": "https://64.media.tumblr.com/9148eb5d78966827151bd2c468482078/b5742069b3045d46-3c/s1280x1920/5cb7671eff2bda5b855af8554469094ef8ef29fe.png",
-    "scale": { "cols": 12, "rows": 6 },
-    "location": { "x": 33, "y": 0 }
-  },
+  
   {
     "url": "https://64.media.tumblr.com/35d76ce60edd98180ac69c9013e37d61/000704362fd595ea-ef/s1280x1920/4f3e9da5ce83f480940e08d88493fdf1da801c6b.pnj",
     "scale": { "cols": 12, "rows": 12 },
