@@ -3,7 +3,8 @@
   {
     "url": "https://64.media.tumblr.com/35d76ce60edd98180ac69c9013e37d61/000704362fd595ea-ef/s1280x1920/4f3e9da5ce83f480940e08d88493fdf1da801c6b.pnj",
     "scale": { "cols": 12, "rows": 12 },
-    "location": { "x": 0, "y": 12 }
+    "location": { "x": 0, "y": 12 },
+    "category": { "planting" }
   },
   {
     "url": "https://64.media.tumblr.com/be879a8c127314db2fcd47d44f1e83f6/000704362fd595ea-9f/s1280x1920/80c9a363993f5970be8d0bb9024f7d1ec05eb5ee.pnj",
