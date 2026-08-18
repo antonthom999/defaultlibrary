@@ -115,28 +115,28 @@
   {
     "url": "https://64.media.tumblr.com/d139463ba1a791c3aec0ac2172c67f4c/e2bf0cd66c3925e7-00/s2048x3072/a1c4b0631634c7a6bca06b5f67ecfde77d5bb293.pnj",
     "scale": { "cols": 15, "rows": 6 },
-    "location": { "x": 80, "y": 12 },
+    "location": { "x": 76, "y": 12 },
     "name": "Car2",
     "category": "Entourage"
   },
   {
     "url": "https://64.media.tumblr.com/5a138f0a8e34f42539240b1374fa130b/e2bf0cd66c3925e7-25/s2048x3072/c2076204c8eed231df3bc4e2759ac6be96861a03.pnj",
     "scale": { "cols": 15, "rows": 6 },
-    "location": { "x": 100, "y": 12 },
+    "location": { "x": 92, "y": 12 },
     "name": "Car3",
     "category": "Entourage"
   },
   {
     "url": "https://64.media.tumblr.com/e8b4f728d590955f3b2e4ee1f4ec13d8/e2bf0cd66c3925e7-29/s2048x3072/833ce600763b3b5113c8821eec736acf785c2598.pnj",
     "scale": { "cols": 15, "rows": 6 },
-    "location": { "x": 100, "y": 12 },
+    "location": { "x": 108, "y": 12 },
     "name": "Car4",
     "category": "Entourage"
   },
   {
     "url": "https://64.media.tumblr.com/895815bc3b26dca96b6fbe345ebf7e6a/e2bf0cd66c3925e7-29/s1280x1920/68abefb8ffd8f4d223a011ea36469fb7106dbcb1.pnj",
     "scale": { "cols": 15, "rows": 6 },
-    "location": { "x": 100, "y": 12 },
+    "location": { "x": 124, "y": 12 },
     "name": "Car5",
     "category": "Entourage"
   }
