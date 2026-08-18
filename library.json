@@ -111,5 +111,12 @@
     "location": { "x": 60, "y": 0 },
     "name": "Car1",
     "category": "Entourage"
+  },
+  {
+    "url": "https://64.media.tumblr.com/d139463ba1a791c3aec0ac2172c67f4c/e2bf0cd66c3925e7-00/s2048x3072/a1c4b0631634c7a6bca06b5f67ecfde77d5bb293.pnj",
+    "scale": { "cols": 15, "rows": 6 },
+    "location": { "x": 72, "y": 0 },
+    "name": "Car2",
+    "category": "Entourage"
   }
 ]
