@@ -104,5 +104,12 @@
     "location": { "x": 48, "y": 36 },
     "name": "Tree15",
     "category": "Planting"
+  },
+  {
+    "url": "https://64.media.tumblr.com/83aedbfeb228c365f3a66ead4cfcb52d/e2bf0cd66c3925e7-cf/s2048x3072/a6823aca63b7015c150c76fc0e798c64ff95b0e5.pnj",
+    "scale": { "cols": 15, "rows": 6 },
+    "location": { "x": 48, "y": 36 },
+    "name": "Car1",
+    "category": "Entourage"
   }
 ]
