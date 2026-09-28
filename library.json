@@ -212,15 +212,43 @@
   {
     "url": "https://64.media.tumblr.com/bd9eb2b15f04bfeff747efe956293a4e/55bb1f8cd6ae671e-24/s1280x1920/e7909b6910b5db8a1dad6ba8f15d013487c58211.pnj",
     "scale": { "cols": 5, "rows": 7 },
-    "location": { "x": 0, "y": 46 },
+    "location": { "x": 0, "y": 49 },
     "name": "Bed1",
     "category": "Furniture"
   },
   {
     "url": "https://64.media.tumblr.com/41f62ca03b138d38a08fd8a0efaffffc/55bb1f8cd6ae671e-1a/s640x960/70f37416b171a2d943c8c3b4804d1ccc19977676.pnj",
     "scale": { "cols": 3.5, "rows": 7 },
-    "location": { "x": 7, "y": 46 },
+    "location": { "x": 7, "y": 49 },
     "name": "Bed2",
+    "category": "Furniture"
+  },
+  {
+    "url": "https://64.media.tumblr.com/19565aa4e7a01ef2be4e118b4e86bba7/55bb1f8cd6ae671e-e1/s1280x1920/fde855713118b2dfd82e137c5e25ff6415644f0d.pnj",
+    "scale": { "cols": 3.5, "rows": 7 },
+    "location": { "x": 11, "y": 49 },
+    "name": "Chair1",
+    "category": "Furniture"
+  },
+  {
+    "url": "https://64.media.tumblr.com/1283bcad53be1c225cabda26d44ccd53/55bb1f8cd6ae671e-08/s400x600/b90a1cd16aced40c3a7d8491dc65453446197fed.pnj",
+    "scale": { "cols": 3.5, "rows": 7 },
+    "location": { "x": 14, "y": 49 },
+    "name": "Chair2",
+    "category": "Furniture"
+  },
+  {
+    "url": "https://64.media.tumblr.com/53b8af8ab3e7b5de212a23a47c79ca71/55bb1f8cd6ae671e-c1/s400x600/b3090f5c08492bcf9d3fa170a9f8110043a134bd.pnj",
+    "scale": { "cols": 3.5, "rows": 7 },
+    "location": { "x": 17, "y": 49 },
+    "name": "Chair3",
+    "category": "Furniture"
+  },
+  {
+    "url": "https://64.media.tumblr.com/53b8af8ab3e7b5de212a23a47c79ca71/55bb1f8cd6ae671e-c1/s400x600/b3090f5c08492bcf9d3fa170a9f8110043a134bd.pnj",
+    "scale": { "cols": 3.5, "rows": 7 },
+    "location": { "x": 20, "y": 49 },
+    "name": "Chair4",
     "category": "Furniture"
   }
 ]
