@@ -167,5 +167,26 @@
     "location": { "x": 113, "y": 21 },
     "name": "Bus1",
     "category": "Entourage"
+  },
+    {
+    "url": "https://64.media.tumblr.com/e90aa74a444dc4cdc7ef4749815fbbdb/e2bf0cd66c3925e7-65/s2048x3072/5427dfd5c5de35cf597921cd60823ee81ab221f6.pnj",
+    "scale": { "cols": 72, "rows": 9 },
+    "location": { "x": 60, "y": 30 },
+    "name": "Semi-Truck-trailer",
+    "category": "Entourage"
+  },
+    {
+    "url": "https://64.media.tumblr.com/ab59f39a0f0dd4fe2939f7d77177ae8b/e2bf0cd66c3925e7-87/s2048x3072/3a86c3fac20803723be3509cc5d5d79739e8711c.pnj",
+    "scale": { "cols": 19, "rows": 8 },
+    "location": { "x": 92, "y": 30 },
+    "name": "RV",
+    "category": "Entourage"
+  },
+    {
+    "url": "https://64.media.tumblr.com/88cd1d595bf4e4153618ae0d54a29908/e2bf0cd66c3925e7-ea/s2048x3072/0698c8e3ccf70f6bac1ff922d9b64b6fe0262218.pnj",
+    "scale": { "cols": 25, "rows": 8 },
+    "location": { "x": 113, "y": 30 },
+    "name": "Boxtruck",
+    "category": "Entourage"
   }
 ]
