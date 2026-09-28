@@ -175,6 +175,20 @@
     "name": "Semi-Truck-trailer",
     "category": "Entourage"
   },
+  {
+    "url": "https://64.media.tumblr.com/d0a1b881e6be1ba4eb9310ee991c52d7/e2bf0cd66c3925e7-62/s1280x1920/4b05397ade439a1159a48a280a41402410ce6812.pnj",
+    "scale": { "cols": 6, "rows": 2 },
+    "location": { "x": 134, "y": 30 },
+    "name": "Bicycle",
+    "category": "Entourage"
+  },
+  {
+    "url": "https://64.media.tumblr.com/7342d6f28acab3cb02a719eabd817d1c/e2bf0cd66c3925e7-24/s2048x3072/411dd2771e644dfae51f81c3855fe07ab08995ec.pnj",
+    "scale": { "cols": 4, "rows": 2 },
+    "location": { "x": 134, "y": 35 },
+    "name": "E-Scooter",
+    "category": "Entourage"
+  },
     {
     "url": "https://64.media.tumblr.com/34bd6cc85b24fe042b8e622a270607f7/e2bf0cd66c3925e7-4d/s2048x3072/438fe9f284e70a54f5d4eddda7b2b0212e574919.pnj",
     "scale": { "cols": 25, "rows": 8 },
@@ -185,7 +199,7 @@
     {
     "url": "https://64.media.tumblr.com/ab59f39a0f0dd4fe2939f7d77177ae8b/e2bf0cd66c3925e7-87/s2048x3072/3a86c3fac20803723be3509cc5d5d79739e8711c.pnj",
     "scale": { "cols": 25, "rows": 8 },
-    "location": { "x": 92, "y": 40 },
+    "location": { "x": 87, "y": 40 },
     "name": "RV",
     "category": "Entourage"
   },
