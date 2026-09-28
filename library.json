@@ -209,5 +209,19 @@
     "location": { "x": 113, "y": 40 },
     "name": "Boxtruck",
     "category": "Entourage"
-  }
+  },
+  {
+    "url": "https://64.media.tumblr.com/bd9eb2b15f04bfeff747efe956293a4e/55bb1f8cd6ae671e-24/s1280x1920/e7909b6910b5db8a1dad6ba8f15d013487c58211.pnj",
+    "scale": { "cols": 5, "rows": 7 },
+    "location": { "x": 0, "y": 46 },
+    "name": "Bed1",
+    "category": "Furniture"
+  },
+  {
+    "url": "https://64.media.tumblr.com/41f62ca03b138d38a08fd8a0efaffffc/55bb1f8cd6ae671e-1a/s640x960/70f37416b171a2d943c8c3b4804d1ccc19977676.pnj",
+    "scale": { "cols": 3.5, "rows": 7 },
+    "location": { "x": 7, "y": 46 },
+    "name": "Bed2",
+    "category": "Furniture"
+  },
 ]
