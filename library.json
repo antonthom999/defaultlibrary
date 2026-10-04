@@ -296,8 +296,15 @@
   {
     "url": "https://64.media.tumblr.com/5a3c2e2d1b354edbd7868f42f3fd9d09/55bb1f8cd6ae671e-3e/s2048x3072/e9d668be9294352c2abefde0f34dfcba0f74b82d.pnj",
     "scale": { "cols": 8, "rows": 5 },
-    "location": { "x": 39, "y": 54 },
+    "location": { "x": 38, "y": 54 },
     "name": "Dining table 8 chairs",
+    "category": "Furniture"
+  },
+  {
+    "url": "https://64.media.tumblr.com/da2d3f0a40911cb6ef7cb921a6c5913f/55bb1f8cd6ae671e-de/s2048x3072/f942f42b94ce2d13c6c75a0712cf5bce797559b7.pnj",
+    "scale": { "cols": 10, "rows": 6 },
+    "location": { "x": 49, "y": 54 },
+    "name": "Dining table 10 chairs",
     "category": "Furniture"
   }
 ]
