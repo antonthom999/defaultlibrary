@@ -226,29 +226,50 @@
   {
     "url": "https://64.media.tumblr.com/19565aa4e7a01ef2be4e118b4e86bba7/55bb1f8cd6ae671e-e1/s1280x1920/fde855713118b2dfd82e137c5e25ff6415644f0d.pnj",
     "scale": { "cols": 2, "rows": 2 },
-    "location": { "x": 11, "y": 49 },
+    "location": { "x": 12, "y": 49 },
     "name": "Chair1",
     "category": "Furniture"
   },
   {
     "url": "https://64.media.tumblr.com/1283bcad53be1c225cabda26d44ccd53/55bb1f8cd6ae671e-08/s400x600/b90a1cd16aced40c3a7d8491dc65453446197fed.pnj",
     "scale": { "cols": 2, "rows": 2 },
-    "location": { "x": 14, "y": 49 },
+    "location": { "x": 15, "y": 49 },
     "name": "Chair2",
     "category": "Furniture"
   },
   {
     "url": "https://64.media.tumblr.com/53b8af8ab3e7b5de212a23a47c79ca71/55bb1f8cd6ae671e-c1/s400x600/b3090f5c08492bcf9d3fa170a9f8110043a134bd.pnj",
     "scale": { "cols": 2, "rows": 2 },
-    "location": { "x": 17, "y": 49 },
+    "location": { "x": 18, "y": 49 },
     "name": "Chair3",
     "category": "Furniture"
   },
   {
-    "url": "https://64.media.tumblr.com/53b8af8ab3e7b5de212a23a47c79ca71/55bb1f8cd6ae671e-c1/s400x600/b3090f5c08492bcf9d3fa170a9f8110043a134bd.pnj",
-    "scale": { "cols": 2, "rows": 2 },
-    "location": { "x": 20, "y": 49 },
-    "name": "Chair4",
+    "url": "https://64.media.tumblr.com/af1e03af4d541da12ff216b676a0720a/55bb1f8cd6ae671e-b7/s400x600/817934166fccbbcf57b6a31629e299b84de144fe.pnj",
+    "scale": { "cols": 3, "rows": 3 },
+    "location": { "x": 21, "y": 49 },
+    "name": "Table-Square",
+    "category": "Furniture"
+  },
+  {
+    "url": "https://64.media.tumblr.com/29cebaf38152facdf5e9d629bac908df/55bb1f8cd6ae671e-a6/s400x600/cbe1cc5fcc884b8cc96c50010a767004fa991293.pnj",
+    "scale": { "cols": 3, "rows": 3 },
+    "location": { "x": 27, "y": 49 },
+    "name": "Table-Round",
+    "category": "Furniture"
+  },
+  {
+    "url": "https://64.media.tumblr.com/ddb134ec299451a99829c895610ee7f3/55bb1f8cd6ae671e-a3/s1280x1920/d79f18ffe0eb91b990d131f14d6cd17aeecf6bd9.pnj",
+    "scale": { "cols": 3, "rows": 6 },
+    "location": { "x": 31, "y": 49 },
+    "name": "Table-Rectangle",
+    "category": "Furniture"
+  },
+  {
+    "url": "https://64.media.tumblr.com/afc24e66a77951124e096a194efad6b3/55bb1f8cd6ae671e-8e/s2048x3072/552c7548e41b73e170500f39441eec9b7e7b40fd.pnj",
+    "scale": { "cols": 3, "rows": 11 },
+    "location": { "x": 36, "y": 49 },
+    "name": "Counter",
     "category": "Furniture"
   }
 ]
