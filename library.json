@@ -271,5 +271,33 @@
     "location": { "x": 40, "y": 49 },
     "name": "Counter",
     "category": "Furniture"
+  },
+  {
+    "url": "https://64.media.tumblr.com/251b59ec06083db6a1a4cbaa3dcde880/55bb1f8cd6ae671e-69/s1280x1920/4e3177c1db4c5e2c01cf3a9ba5c81e32653488a8.pnj",
+    "scale": { "cols": 6, "rows": 6 },
+    "location": { "x": 12, "y": 54 },
+    "name": "Dining table 4 chairs",
+    "category": "Furniture"
+  },
+  {
+    "url": "https://64.media.tumblr.com/3f7272bbf69d410dfe839124c9929e3c/55bb1f8cd6ae671e-c3/s1280x1920/23610adc1acd2b51c8d3bded23eaa1268a27572f.pnj",
+    "scale": { "cols": 7, "rows": 7 },
+    "location": { "x": 21, "y": 54 },
+    "name": "Dining table 5 chairs",
+    "category": "Furniture"
+  },
+  {
+    "url": "https://64.media.tumblr.com/d03ce848d6f2335e601f7869886f54b6/55bb1f8cd6ae671e-8d/s1280x1920/6e641012c885c6b1da09edf4f53c5fd608f7cb2c.pnj",
+    "scale": { "cols": 7, "rows": 5.5 },
+    "location": { "x": 30, "y": 54 },
+    "name": "Dining table 6 chairs",
+    "category": "Furniture"
+  },
+  {
+    "url": "https://64.media.tumblr.com/5a3c2e2d1b354edbd7868f42f3fd9d09/55bb1f8cd6ae671e-3e/s2048x3072/e9d668be9294352c2abefde0f34dfcba0f74b82d.pnj",
+    "scale": { "cols": 8, "rows": 6 },
+    "location": { "x": 40, "y": 54 },
+    "name": "Dining table 8 chairs",
+    "category": "Furniture"
   }
 ]
