@@ -254,20 +254,20 @@
   {
     "url": "https://64.media.tumblr.com/29cebaf38152facdf5e9d629bac908df/55bb1f8cd6ae671e-a6/s400x600/cbe1cc5fcc884b8cc96c50010a767004fa991293.pnj",
     "scale": { "cols": 3, "rows": 3 },
-    "location": { "x": 27, "y": 49 },
+    "location": { "x": 26, "y": 49 },
     "name": "Table-Round",
     "category": "Furniture"
   },
   {
     "url": "https://64.media.tumblr.com/ddb134ec299451a99829c895610ee7f3/55bb1f8cd6ae671e-a3/s1280x1920/d79f18ffe0eb91b990d131f14d6cd17aeecf6bd9.pnj",
-    "scale": { "cols": 3, "rows": 6 },
+    "scale": { "cols": 6, "rows": 3 },
     "location": { "x": 31, "y": 49 },
     "name": "Table-Rectangle",
     "category": "Furniture"
   },
   {
     "url": "https://64.media.tumblr.com/afc24e66a77951124e096a194efad6b3/55bb1f8cd6ae671e-8e/s2048x3072/552c7548e41b73e170500f39441eec9b7e7b40fd.pnj",
-    "scale": { "cols": 3, "rows": 11 },
+    "scale": { "cols": 11, "rows": 3 },
     "location": { "x": 36, "y": 49 },
     "name": "Counter",
     "category": "Furniture"
