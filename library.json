@@ -306,5 +306,26 @@
     "location": { "x": 49, "y": 54 },
     "name": "Dining table 10 chairs",
     "category": "Furniture"
+  },
+  {
+    "url": "https://64.media.tumblr.com/f0299d39ed487574f1e2aacafaa7f93f/55bb1f8cd6ae671e-76/s1280x1920/add7a0b1666a126903e467a1254e8403681d8c92.pnj",
+    "scale": { "cols": 3, "rows": 12 },
+    "location": { "x": 0, "y": 58 },
+    "name": "Sofa4",
+    "category": "Furniture"
+  },
+  {
+    "url": "https://64.media.tumblr.com/7a16fb4c38fd34d95e0b0ede395c8b08/55bb1f8cd6ae671e-b7/s1280x1920/197b4fb4eee0615c3edc48cf136bfe6a90b59886.pnj",
+    "scale": { "cols": 3, "rows": 9 },
+    "location": { "x": 5, "y": 58 },
+    "name": "Sofa3",
+    "category": "Furniture"
+  },
+  {
+    "url": "https://64.media.tumblr.com/8902855e12fcd2d4c9d58da7cd43ba53/55bb1f8cd6ae671e-d0/s1280x1920/cd3514149a011fb2030811d5512e0a4e234edd26.pnj",
+    "scale": { "cols": 6, "rows": 9 },
+    "location": { "x": 10, "y": 58 },
+    "name": "Sofal",
+    "category": "Furniture"
   }
 ]
