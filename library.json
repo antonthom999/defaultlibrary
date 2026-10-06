@@ -317,15 +317,29 @@
   {
     "url": "https://64.media.tumblr.com/7a16fb4c38fd34d95e0b0ede395c8b08/55bb1f8cd6ae671e-b7/s1280x1920/197b4fb4eee0615c3edc48cf136bfe6a90b59886.pnj",
     "scale": { "cols": 3, "rows": 9 },
-    "location": { "x": 5, "y": 58 },
+    "location": { "x": 5, "y": 61 },
     "name": "Sofa3",
     "category": "Furniture"
   },
   {
     "url": "https://64.media.tumblr.com/8902855e12fcd2d4c9d58da7cd43ba53/55bb1f8cd6ae671e-d0/s1280x1920/cd3514149a011fb2030811d5512e0a4e234edd26.pnj",
     "scale": { "cols": 6, "rows": 9 },
-    "location": { "x": 10, "y": 58 },
+    "location": { "x": 10, "y": 61 },
     "name": "Sofal",
+    "category": "Furniture"
+  },
+  {
+    "url": "https://64.media.tumblr.com/597af7a5c1b5b9352e394c28bde230dc/55bb1f8cd6ae671e-5b/s540x810/7273a1345d5ed45b3b2baf792fef13a165ef5b41.pnj",
+    "scale": { "cols": 3, "rows": 6 },
+    "location": { "x": 18, "y": 65 },
+    "name": "Sofa2",
+    "category": "Furniture"
+  },
+  {
+    "url": "https://64.media.tumblr.com/362dc2808ae86142266fdbf5fc367276/55bb1f8cd6ae671e-dc/s500x750/31d503584335bb5565600cd79d739e461d267822.pnj",
+    "scale": { "cols": 3, "rows": 3 },
+    "location": { "x": 23, "y": 68 },
+    "name": "Sofa1",
     "category": "Furniture"
   }
 ]
