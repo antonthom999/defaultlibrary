@@ -331,15 +331,36 @@
   {
     "url": "https://64.media.tumblr.com/597af7a5c1b5b9352e394c28bde230dc/55bb1f8cd6ae671e-5b/s540x810/7273a1345d5ed45b3b2baf792fef13a165ef5b41.pnj",
     "scale": { "cols": 3, "rows": 6 },
-    "location": { "x": 18, "y": 65 },
+    "location": { "x": 18, "y": 64 },
     "name": "Sofa2",
     "category": "Furniture"
   },
   {
     "url": "https://64.media.tumblr.com/362dc2808ae86142266fdbf5fc367276/55bb1f8cd6ae671e-dc/s500x750/31d503584335bb5565600cd79d739e461d267822.pnj",
     "scale": { "cols": 3, "rows": 3 },
-    "location": { "x": 23, "y": 68 },
+    "location": { "x": 23, "y": 67 },
     "name": "Sofa1",
+    "category": "Furniture"
+  },
+  {
+    "url": "https://64.media.tumblr.com/4d79a107d48a1ca016f30cfb4cfc68c1/55bb1f8cd6ae671e-fe/s500x750/4494a84f27339af8ee9ee634375df896ad5852f9.pnj",
+    "scale": { "cols": 3, "rows": 3 },
+    "location": { "x": 23, "y": 62 },
+    "name": "Sofapart1",
+    "category": "Furniture"
+  },
+  {
+    "url": "https://64.media.tumblr.com/4b841715c1a1f107c7dc6495464b1494/55bb1f8cd6ae671e-96/s500x750/67c1ec67e6fb6967a0968e120cd3e0dea36de2b3.pnj",
+    "scale": { "cols": 3, "rows": 3 },
+    "location": { "x": 28, "y": 62 },
+    "name": "Sofapart2",
+    "category": "Furniture"
+  },
+  {
+    "url": "https://64.media.tumblr.com/8fe5b38e7f268bcb0d16764cc9034e13/55bb1f8cd6ae671e-ff/s500x750/b14071db2b5494e8e5d02489c2dc1fb9c5ac58ce.pnj",
+    "scale": { "cols": 3, "rows": 3 },
+    "location": { "x": 28, "y": 67 },
+    "name": "Sofapart3",
     "category": "Furniture"
   }
 ]
