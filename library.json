@@ -387,21 +387,21 @@
   {
     "url": "https://64.media.tumblr.com/3d939ab97cf960a04a59299d7bf43c8b/98fb58168e58470b-9b/s250x400/b1c4998c7b74b5d1e4d81768d38db1ee29ff1305.pnj",
     "scale": { "cols": 2, "rows": 1.5 },
-    "location": { "x": 41, "y": 62 },
+    "location": { "x": 42, "y": 62 },
     "name": "Wash Basin 1",
     "category": "Plumbing"
   },
   {
     "url": "https://64.media.tumblr.com/16e425ac2b82cc34d35e5501c54b31ed/98fb58168e58470b-d0/s250x400/08e45525d8bf2dd8571df0305ca57e74fc58b8db.pnj",
     "scale": { "cols": 2, "rows": 1.5 },
-    "location": { "x": 44, "y": 62 },
+    "location": { "x": 45, "y": 62 },
     "name": "Wash Basin 2",
     "category": "Plumbing"
   },
   {
     "url": "https://64.media.tumblr.com/7633841abef499a8862fcbddf06b2ff2/98fb58168e58470b-8a/s250x400/f916cb33dce71123ae4f48fe0011df66cfa540fd.pnj",
     "scale": { "cols": 3, "rows": 3 },
-    "location": { "x": 48, "y": 62 },
+    "location": { "x": 49, "y": 62 },
     "name": "Shower 1",
     "category": "Plumbing"
   },
@@ -432,5 +432,19 @@
     "location": { "x": 71, "y": 62 },
     "name": "Tub3",
     "category": "Plumbing"
+  },
+  {
+    "url": "https://64.media.tumblr.com/1624be9554f8c2f05224e1b8d1cf4299/755ca681d9cb5cb5-b8/s1280x1920/e94a9474f0a058e996e113bc7517b903e5d7a9b2.pnj",
+    "scale": { "cols": 6, "rows": 3.5 },
+    "location": { "x": 0, "y": 72 },
+    "name": "Door - External Entry 1 Panel 1 Sidelight",
+    "category": "Doors"
+  },
+  {
+    "url": "https://64.media.tumblr.com/eb3c6cb55ee2e79c8d094d2f79e6a066/755ca681d9cb5cb5-43/s400x600/a11a9dc6e046188fba0a91ab2d8757aada7cfd64.pnj",
+    "scale": { "cols": 3, "rows": 3.5 },
+    "location": { "x": 8, "y": 72 },
+    "name": "Door - External - Entry - 1 Panel",
+    "category": "Doors"
   }
 ]
