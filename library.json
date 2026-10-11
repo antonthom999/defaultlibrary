@@ -362,5 +362,26 @@
     "location": { "x": 28, "y": 67 },
     "name": "Sofapart3",
     "category": "Furniture"
+  },
+  {
+    "url": "https://64.media.tumblr.com/5284f27650e62dab1b00305201714119/98fb58168e58470b-5b/s250x400/f6531f7f4d47ef2add6db682c2fe4cd1702727dd.pnj",
+    "scale": { "cols": 1.5, "rows": 2.5 },
+    "location": { "x": 33, "y": 62 },
+    "name": "WC1",
+    "category": "Plumbing"
+  },
+  {
+    "url": "https://64.media.tumblr.com/cbe40806a7130deebab574e43f6bc60b/98fb58168e58470b-6f/s250x400/5946af6a42beecd6e742524a3bb89c5e9bab11b2.pnj",
+    "scale": { "cols": 1.5, "rows": 2.5 },
+    "location": { "x": 37, "y": 62 },
+    "name": "WC2",
+    "category": "Plumbing"
+  },
+  {
+    "url": "https://64.media.tumblr.com/04dfe280517f043635a29f4110ee3782/98fb58168e58470b-75/s250x400/ba54713cb49fecbb03a3b9b1ac3df2074935695d.pnj",
+    "scale": { "cols": 1.5, "rows": 2.5 },
+    "location": { "x": 41, "y": 62 },
+    "name": "WC3",
+    "category": "Plumbing"
   }
 ]
