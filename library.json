@@ -422,14 +422,14 @@
   {
     "url": "https://64.media.tumblr.com/5f3982954faaaf5340db3b2dc85376c8/98fb58168e58470b-98/s400x600/cc4642d90dd33e57280d5ae23f036cd237d6154e.pnj",
     "scale": { "cols": 3, "rows": 7 },
-    "location": { "x": 65, "y": 62 },
+    "location": { "x": 64, "y": 62 },
     "name": "Tub2",
     "category": "Plumbing"
   },
   {
     "url": "https://64.media.tumblr.com/195e3870d996cb3e22e74f5e9b9af39b/98fb58168e58470b-aa/s400x600/cc682d72c138e29da1ee76291989b60421e837d0.pnj",
     "scale": { "cols": 7, "rows": 7 },
-    "location": { "x": 71, "y": 62 },
+    "location": { "x": 69, "y": 62 },
     "name": "Tub3",
     "category": "Plumbing"
   },
@@ -445,6 +445,27 @@
     "scale": { "cols": 3, "rows": 3.5 },
     "location": { "x": 8, "y": 72 },
     "name": "Door - External - Entry - 1 Panel",
+    "category": "Doors"
+  },
+  {
+    "url": "https://64.media.tumblr.com/61256670a55fe2bc411f516bc7d9207f/755ca681d9cb5cb5-dc/s1280x1920/842babb58106882fcfa0ebd63baaa9c9e1ef2776.pnj",
+    "scale": { "cols": 6, "rows": 3.5 },
+    "location": { "x": 13, "y": 72 },
+    "name": "Door - External - Entry - 1 Panel - 2 Sidelights",
+    "category": "Doors"
+  },
+  {
+    "url": "https://64.media.tumblr.com/5ca1b9529b5993b71ec876ab2132d681/755ca681d9cb5cb5-47/s1280x1920/e8d802f263025c274c54f3dc3b618b9c051ae281.pnj",
+    "scale": { "cols": 6, "rows": 3.5 },
+    "location": { "x": 21, "y": 72 },
+    "name": "Door - External - Entry - 2 Panel",
+    "category": "Doors"
+  },
+  {
+    "url": "https://64.media.tumblr.com/d7008a18d12cb914805cdcd792736b43/755ca681d9cb5cb5-85/s1280x1920/7e13c8a7c4dee57fb94576fe48eff121ee7c0f48.pnj",
+    "scale": { "cols": 6, "rows": 3.5 },
+    "location": { "x": 29, "y": 72 },
+    "name": "Door - External - Entry - 2 Panel - 1 Sidelight",
     "category": "Doors"
   }
 ]
