@@ -373,15 +373,64 @@
   {
     "url": "https://64.media.tumblr.com/cbe40806a7130deebab574e43f6bc60b/98fb58168e58470b-6f/s250x400/5946af6a42beecd6e742524a3bb89c5e9bab11b2.pnj",
     "scale": { "cols": 1.5, "rows": 2.5 },
-    "location": { "x": 37, "y": 62 },
+    "location": { "x": 36, "y": 62 },
     "name": "WC2",
     "category": "Plumbing"
   },
   {
     "url": "https://64.media.tumblr.com/04dfe280517f043635a29f4110ee3782/98fb58168e58470b-75/s250x400/ba54713cb49fecbb03a3b9b1ac3df2074935695d.pnj",
     "scale": { "cols": 1.5, "rows": 2.5 },
-    "location": { "x": 41, "y": 62 },
+    "location": { "x": 39, "y": 62 },
     "name": "WC3",
+    "category": "Plumbing"
+  },
+  {
+    "url": "https://64.media.tumblr.com/3d939ab97cf960a04a59299d7bf43c8b/98fb58168e58470b-9b/s250x400/b1c4998c7b74b5d1e4d81768d38db1ee29ff1305.pnj",
+    "scale": { "cols": 2, "rows": 1.5 },
+    "location": { "x": 41, "y": 62 },
+    "name": "Wash Basin 1",
+    "category": "Plumbing"
+  },
+  {
+    "url": "https://64.media.tumblr.com/16e425ac2b82cc34d35e5501c54b31ed/98fb58168e58470b-d0/s250x400/08e45525d8bf2dd8571df0305ca57e74fc58b8db.pnj",
+    "scale": { "cols": 2, "rows": 1.5 },
+    "location": { "x": 44, "y": 62 },
+    "name": "Wash Basin 2",
+    "category": "Plumbing"
+  },
+  {
+    "url": "https://64.media.tumblr.com/7633841abef499a8862fcbddf06b2ff2/98fb58168e58470b-8a/s250x400/f916cb33dce71123ae4f48fe0011df66cfa540fd.pnj",
+    "scale": { "cols": 3, "rows": 3 },
+    "location": { "x": 48, "y": 62 },
+    "name": "Shower 1",
+    "category": "Plumbing"
+  },
+  {
+    "url": "https://64.media.tumblr.com/7a6c15853548deb003670922644e8e05/98fb58168e58470b-87/s250x400/0f968cc99668448b8da6d6cdbe5ce71f7d194922.pnj",
+    "scale": { "cols": 3, "rows": 3 },
+    "location": { "x": 54, "y": 62 },
+    "name": "Shower 2",
+    "category": "Plumbing"
+  },
+  {
+    "url": "https://64.media.tumblr.com/6b68a2d9127af9cf757f574ca160b92a/98fb58168e58470b-f2/s400x600/ecff752c2fa7d8413a2bae68c1e0cad869ca288b.pnj",
+    "scale": { "cols": 3, "rows": 7 },
+    "location": { "x": 59, "y": 62 },
+    "name": "Tub1",
+    "category": "Plumbing"
+  },
+  {
+    "url": "https://64.media.tumblr.com/5f3982954faaaf5340db3b2dc85376c8/98fb58168e58470b-98/s400x600/cc4642d90dd33e57280d5ae23f036cd237d6154e.pnj",
+    "scale": { "cols": 3, "rows": 7 },
+    "location": { "x": 65, "y": 62 },
+    "name": "Tub2",
+    "category": "Plumbing"
+  },
+  {
+    "url": "https://64.media.tumblr.com/195e3870d996cb3e22e74f5e9b9af39b/98fb58168e58470b-aa/s400x600/cc682d72c138e29da1ee76291989b60421e837d0.pnj",
+    "scale": { "cols": 7, "rows": 7 },
+    "location": { "x": 71, "y": 62 },
+    "name": "Tub3",
     "category": "Plumbing"
   }
 ]
